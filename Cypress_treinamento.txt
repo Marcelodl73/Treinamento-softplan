@@ -1,0 +1,10 @@
+Cypress
+
+https://github.com/brunopulis/awesome-cypress
+
+
+
+npx cypress open
+
+
+Crt-f => # para o ID
